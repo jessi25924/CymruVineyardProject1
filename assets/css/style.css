@@ -3,7 +3,25 @@
 
 body {
     font-family: "Playfair Display", sans-serif;
+    color:blueviolet;
 }
 h1 {
     font-family: "Great Vibes", roboto;
+}
+
+/*Footer*/
+.container-fluid {
+    background-color: #2E3708; /*blind forest*/
+    padding-top: 6px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #BAB723; /*pickled limes*/
 }
