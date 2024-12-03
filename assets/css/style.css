@@ -9,6 +9,43 @@ h1 {
     font-family: "Great Vibes", roboto;
 }
 
+/*Navbar*/
+.custom-navbar {
+    background-color: #2E3708;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color:#BAB723;
+}
+
+.custom-text {
+    color: white;
+}
+
+.navbar-nav .custom-text.active {
+    color: white;
+}
+
+.navbar-nav .custom-text.active:hover {
+    color: #BAB723; 
+}
+
+.custom-text:hover {
+    color:#BAB723;
+}
+
+.custom-button {
+    color: white;
+}
+
+.custom-button:hover {
+    color:#BAB723;
+}
+
 /*Footer*/
 .container-fluid {
     background-color: #2E3708; /*blind forest*/
