@@ -12,3 +12,20 @@ The homepage layout will include a welcome section with a captivating image of t
 The about page will contain the contact information, operational days and times, and a gallery section.
 
 A straightforward booking page was created separately for the user to input their information such as name, date, etc. while all the information about the tour is being displayed in one page.
+
+
+## WIREFRAME
+
+These wireframs screenshots illustrate the responsive dedsign, showcasing the desktop, tablet, and mobile layouts. 
+
+* Desktop
+
+![desktopscreenshot](screenshots/WRdesktop.png)
+
+* Tablet
+
+![tabletscreenshot](screenshots/WFtablet.png)
+
+* Mobile
+
+![mobilescreenshot](screenshots/WFmobile.png)
