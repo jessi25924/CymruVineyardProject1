@@ -75,7 +75,7 @@
        <section id="booking-form" class="container section my-4">
         <div class="row justify-content-center">
           <div class="col-12 col-md-8">
-            <h2>Booking Form</h2>
+            <h2 class="display-6 my-4">Booking Form</h2>
             <!-- form -->
               <form id="bookingForm">
                 <div class="row">
@@ -104,12 +104,34 @@
                   <input type="number" class="form-control" id="guest" required>
                 </div>
               </div>
-              <button class="btn btn-primary" type="submit">Make a booking</button>
+              <!-- button trigger modal -->
+            <button type="button" class="btn btn-outline-secondary my-4" data-bs-toggle="modal" data-bs-target="#confirmationModal">
+              Secure booking!
+            </button>
               </form>
           </div>
         </div>
        </section>
     </main>
+
+    <!-- Modal -->
+<div class="modal fade" id="confirmationModal" tabindex="-1" aria-labelledby="confirmationModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="confirmationModalLabel">Booking Confirmation</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Thank you! Your booking is confirmed.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <a href="index.html" class="btn btn-success">Return to Homepage</a>
+      </div>
+    </div>
+  </div>
+</div>
 
     <!--Footer-->
     <footer class="mt-auto"> <!--class mt-auto has been added to keep the footer at the bottom of the page-->

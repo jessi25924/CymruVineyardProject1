@@ -83,6 +83,14 @@ a.btn:hover {
     border-color: var(--highlight-color);
 }
 
+/* Modal */
+#confirmationModal {
+    color: black;
+}
+#confirmationModalLabel {
+    color: black;
+}
+
 /*Footer*/
 .container-fluid {
     background-color: #2E3708; /*blind forest*/
