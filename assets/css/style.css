@@ -96,10 +96,26 @@ a.btn:hover {
     color: black;
 }
 
+/* opening times */
+.table.table-dark {
+    background-color: transparent;
+}
+
+.table.table-dark th,
+.table.table-dark td {
+    color: var(--primary-color);
+    background-color: transparent;
+}
+
+.custom-table {
+    width: 75%;
+}
+
 /*Gallery*/
 .gallery img {
-    max-width: 100%;
-    height: auto;
+    width: 90%;
+    height: 200px;
+    object-fit: cover;
 }
 
 /*Footer*/
