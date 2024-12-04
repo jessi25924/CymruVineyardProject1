@@ -96,6 +96,12 @@ a.btn:hover {
     color: black;
 }
 
+/*Gallery*/
+.gallery img {
+    max-width: 100%;
+    height: auto;
+}
+
 /*Footer*/
 .container-fluid {
     background-color: #2E3708; /*blind forest*/
