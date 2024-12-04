@@ -29,3 +29,22 @@ These wireframs screenshots illustrate the responsive dedsign, showcasing the de
 * Mobile
 
 ![mobilescreenshot](screenshots/WFmobile.png)
+
+
+## Colour Scheme
+
+The colour scheme for the design draws inspiration from a vineyard image, providing a harmonious and visually appealing palette: 
+
+![screenshot](screenshots/ColourPalette.webp)
+
+
+* Primary colour #2E3708 - Blind Forest: Main colour for text, navbar and footer background colour, giving a sense of calmness and sophistication to the design.
+
+* Secondary colour #FFFFFF - White: white colour to contrast dark colour background ensuring content remains readable and uncluttered.
+
+* Highlight Colour #BAB723 - Pickled Limes: used to focus to important elements like buttons or call to action.
+
+* Background Colour #9BAA43 - Ogryn Camo: to highlight the booking form.
+
+
+This palette was carefully chosen using [Image Color Picker](https://imagecolorpicker.com/).

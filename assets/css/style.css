@@ -8,6 +8,7 @@
     --primary-color: #2E3708; /*blind forest*/
     --secondary-color: white; 
     --highlight-color: #BAB723; /*pickled limes*/
+    --background-color: #9BAA43; /*ogryn camo*/
 }
 
 body {
@@ -80,7 +81,7 @@ a.btn:hover {
 
 /*Booking Form*/
 .custom-background {
-    background-color: #9BAA43;
+    background-color: var(--background-color);
 }
 
 /* Modal */
