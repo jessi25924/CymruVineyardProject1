@@ -56,11 +56,6 @@ h1 {
     color: var(--highlight-color);
 }
 
-.navbar-brand img {
-    width: 50px;
-    height: 30px;
-}
-
 /*hero*/
 #hero {
     background-image: url(../images/hero-image.png);
