@@ -12,10 +12,11 @@
 
 body {
     font-family: var(--secondary-font), sans-serif;
-    color:blueviolet;
+    color: var(--primary-color);
 }
 h1 {
     font-family: var(--primary-font), roboto;
+    color: var(--primary-color);
 }
 
 /*Navbar*/
@@ -53,6 +54,22 @@ h1 {
 
 .custom-button:hover {
     color: var(--highlight-color);
+}
+
+/*hero*/
+#hero {
+    background-image: url(../images/hero-image.png);
+    background-size: cover;
+    background-position: 50% 65%;
+    min-height: 500%;
+    padding: 5% 7%;
+}
+
+header#hero p {
+    color: var(--secondary-color);
+    background-color: rgba(155, 170, 67, 0.5);
+    padding: 10px;
+    display: inline-block;
 }
 
 /*Footer*/
