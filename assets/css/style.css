@@ -1,49 +1,58 @@
 /* Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
+/*CSS Variables*/
+:root {
+    --primary-font: "Playfair Display", sans-serif;
+    --secondary-font: "Great Vibes", roboto;
+    --primary-color: #2E3708; /*blind forest*/
+    --secondary-color: white; 
+    --highlight-color: #BAB723; /*pickled limes*/
+}
+
 body {
-    font-family: "Playfair Display", sans-serif;
+    font-family: var(--secondary-font), sans-serif;
     color:blueviolet;
 }
 h1 {
-    font-family: "Great Vibes", roboto;
+    font-family: var(--primary-font), roboto;
 }
 
 /*Navbar*/
 .custom-navbar {
-    background-color: #2E3708;
+    background-color: var(--primary-color);
 }
 
 .navbar-brand {
-    color: white;
+    color: var(--secondary-color);
 }
 
 .navbar-brand:hover {
-    color:#BAB723;
+    color: var(--highlight-color);
 }
 
 .custom-text {
-    color: white;
+    color: var(--secondary-color);
 }
 
 .navbar-nav .custom-text.active {
-    color: white;
+    color: var(--secondary-color);
 }
 
 .navbar-nav .custom-text.active:hover {
-    color: #BAB723; 
+    color: var(--highlight-color); 
 }
 
 .custom-text:hover {
-    color:#BAB723;
+    color: var(--highlight-color);
 }
 
 .custom-button {
-    color: white;
+    color: var(--secondary-color);
 }
 
 .custom-button:hover {
-    color:#BAB723;
+    color: var(--highlight-color);
 }
 
 /*Footer*/
