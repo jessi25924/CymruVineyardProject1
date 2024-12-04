@@ -83,6 +83,11 @@ a.btn:hover {
     border-color: var(--highlight-color);
 }
 
+/*Booking Form*/
+.custom-background {
+    background-color: #9BAA43;
+}
+
 /* Modal */
 #confirmationModal {
     color: black;
