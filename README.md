@@ -204,6 +204,8 @@ Steps to deploy a project on Github pages:
 
 * Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
 
+* Fixed Navbar: The concept of keeping the navbar fixed at the top of the page, ensuring it stays visible while scrolling, was also inspired by a Code Institute lesson. This functionality was implemented using Bootstrap's fixed-top class together with custom CSS adjustments for styling.
+
 By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
  
 
