@@ -108,7 +108,7 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 
 * Github: Used for secure online code storage and pages deployment of the website.
 
-* Gitpod: a cloud-based IDE for convenient and consistent development. CI provided a template and was used to this project.
+* Gitpod: a cloud-based IDE for convenient and consistent development. CI student account was used in this project.
 
 
 ## Code
@@ -120,3 +120,22 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 * Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
 
 By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
+
+
+## Testing
+
+All testing conducted for this project has been documented in separate file [TESTING.md](TESTING.md). This includes:
+
+* Validation Testing: code checked for HTML and CSS using W3C validator and Jigsaw.
+
+* Lighthouse Testing: google lighthouse was used to test the site's Performance, Accessibility, and Best Practices.
+
+* Responsiveness Testing: ensuring the site function seamlessly across various devices using tools like Chrome DevTools.
+
+* Cross-Browser Testing: Validating compatibility on popular browsers, cluding Chrome, Firefox, Safari and Edge.
+
+* Bug Fixes: 
+
+
+## Deployment
+
