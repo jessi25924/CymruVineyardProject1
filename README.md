@@ -5,16 +5,40 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 ## UX
 
-This website involves structuring the information in a way that is visually appealing and easy to navigate.
+### Homepage 
 
-The homepage layout will include a welcome section with a captivating image of the vineyard, brief history of the vineyard with a few carousel images, and the navigation bar with straightforward labels such as home, about, and book now.
+* Welcome Section: A full-width hero image showcasing the vineyard during a scenic time of the day. A quote message from Robert Mondavi about vineyard. And a call-to-action button "Book a tour".
 
-The about page will contain the contact information, operational days and times, and a gallery section.
+* About Us Section: Includes a brief history of the vineyard family business and a carousel of images showing the owner's photo in the vineyard and grapes that is produced in the vineyard.
 
-A straightforward booking page was created separately for the user to input their information such as name, date, etc. while all the information about the tour is being displayed in one page.
+* Navigation Bar: Home, About Us, Book Now.
+
+### About Page
+
+* Contact Information: an easy to find address, email address and phone number. 
+
+* Operaitonal Days amd Times: displayed using table to show a clear scheduling pattern.
 
 
-## WIREFRAME
+* Gallery Section: A currated gallery showcasing happy visitors and images of the vineyard. 
+
+### Booking Page
+
+* Tour Information: Pricing, tour duration and tour inclusion.
+
+* A user-friendly form: input fields for name, contact informaiton, preferred date, time and number of people.
+
+* A clear call-to-action: "Secure booking"
+
+* A confirmation modal: confirming the booking.
+
+### Customer Goals
+
+* New visitors: Learn about the vineyard's charm, values and offerings in an engaging way. Find all necessary informaiton to book a visit effortlessly. Build anticipation with visually appealing content.
+
+* Returning customers: keep updated with new tours or events via email that was provided on the first booking.
+
+### WIREFRAME
 
 These wireframs screenshots illustrate the responsive dedsign, showcasing the desktop, tablet, and mobile layouts. 
 
@@ -30,6 +54,19 @@ These wireframs screenshots illustrate the responsive dedsign, showcasing the de
 
 ![mobilescreenshot](screenshots/WFmobile.png)
 
+
+## Font
+
+Google Font library was used for this site.
+
+* "Playfair Display" - used as a primary font for headings and titles.
+* "Great Vibes" - used as a secondary font for all body text element.  
+
+## Icon
+
+Font Awesome library was used for the icons found in the footer.
+
+* such as icon for Facebook, Instagram, Youtube and X.
 
 ## Colour Scheme
 
