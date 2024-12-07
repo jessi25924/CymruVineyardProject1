@@ -139,3 +139,32 @@ All testing conducted for this project has been documented in separate file [TES
 
 ## Deployment
 
+This concise guide covers the essential steps for deployment.
+
+Steps to deploy a project on Github pages:
+
+1. Navigate to your Github repository.
+2. Click on the **Settings** tab at the top of the reposiroty page.
+3. In the left-hand menu, select **Pages** under the Code and Automation.
+4. Under the Source section, choose the branch you want to deploy which is **main**, and select the folder **/root** for deployment.
+5. Click **Save**.
+6. After a few moments, **Github Pages** will provide a live URL where your site is hosted.
+
+### Steps to Create a Github Account
+
+1. Go to GitHub: visit [github.com](https://github.com/) and click SIgn up in the top right corner.
+2. Enter Details: provide email and password.
+3. Verify Account: complete the captcha to verify you're human.
+4. Choose a plan: select the free plan.
+5. Verify Email: check your email and click the verification link.
+6. Set up Profile: this is optional. Add you name, photo, etc.
+7. Start using Github
+
+### Steps to Run the Project in Gitpod
+
+1. Open Github Repository: go to your repository page.
+2. Launch Gitpod
+3. If prompted, sign in to Gitpod.
+4. Wait for environment setup.
+5. Run the project: once the workspace is ready, follow the instructions in the terminal, "python3 -m http.server" to launch the project.
+6. Open the browser preview in Gitpod to view and interact with the project. 
