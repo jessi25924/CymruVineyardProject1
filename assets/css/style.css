@@ -61,9 +61,14 @@ h1 {
 #hero {
     background-image: url(../images/hero-image.png);
     background-size: cover;
-    background-position: 50% 65%;
+    background-position: 50% 90%;
     min-height: 500%;
     padding: 5% 7%;
+}
+
+header#hero h1 {
+    color: var(--secondary-color);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
 header#hero p {
