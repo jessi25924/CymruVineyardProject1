@@ -90,6 +90,11 @@ a.btn:hover {
 }
 
 /*Booking Form*/
+#booking-form {
+    margin-bottom: 80px;
+    margin-top: 40px;
+}
+
 .custom-background {
     background-color: var(--background-color);
 }
