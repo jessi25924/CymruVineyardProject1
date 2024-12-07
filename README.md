@@ -111,17 +111,6 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 * Gitpod: a cloud-based IDE for convenient and consistent development. CI student account was used in this project.
 
 
-## Code
-
-* The majority of the codebase for this website is built using [Bootstrap](https://getbootstrap.com/). Bootstrap's prebuilt components and responsive grid system were utilised to create a modern and user-friendly design with minimal custom coding.
-
-* Footer placement: The idea for keeping the footer fixed at the bottom of the page, regardless of contetnt length, was inspired by a Code Institute lesson. The solution was implemented using Bootstrap's utility classes.
-
-* Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
-
-By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
-
-
 ## Testing
 
 All testing conducted for this project has been documented in separate file [TESTING.md](TESTING.md). This includes:
@@ -168,3 +157,56 @@ Steps to deploy a project on Github pages:
 4. Wait for environment setup.
 5. Run the project: once the workspace is ready, follow the instructions in the terminal, "python3 -m http.server" to launch the project.
 6. Open the browser preview in Gitpod to view and interact with the project. 
+
+
+## Credits
+
+### Content 
+
+* Code Institute Lessons: Provided foundation knowledge and concepts, including best practices for structuring HTML, Bootstrap and CSS in a project.
+
+
+### Code
+
+* Markdown Cheatsheet provided by Adam Pritchard, Code Institute.
+
+* The majority of the codebase for this website is built using [Bootstrap](https://getbootstrap.com/). Bootstrap's prebuilt components and responsive grid system were utilised to create a modern and user-friendly design with minimal custom coding.
+
+* Footer placement: The idea for keeping the footer fixed at the bottom of the page, regardless of contetnt length, was inspired by a Code Institute lesson. The solution was implemented using Bootstrap's utility classes.
+
+* Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
+
+By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
+
+
+### Media
+
+* [Google Font](https://fonts.google.com/) used for all typography and text styling on the site.
+
+* [Font Awesome](https://fontawesome.com/) used for all icons featured on the site.
+
+* [Bootstrap](https://getbootstrap.com/) provided prebuilt code for layout, components and reponsive design.
+
+* [Favicon](https://favicon.io/) used to create the favicon displayed on the browser tab.
+
+* [freepik.com](https://www.freepik.com/) and [unsplash.com](https://unsplash.com/) sourced high-quality images used throughout the site.
+
+* [squoosh.app](https://squoosh.app/) utilised for compressing and optimising images for better performance.
+
+* [canva](https://www.canva.com/?msockid=1642eb6570d860442d60f9db71976156) used for designing the logo, and MS Photos App was used to create a transparent background for the logo.
+
+* MS Snipping tool was used to capture and save screenshots or print screen images for documentation purposes.  
+
+* [image colour picker](https://imagecolorpicker.com/) assisted in generating the colour palette for the site's design.
+
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) by Adam Pritchard: A reference for writing README.md and TESTING.md files, supplemented by guidance from Code Intitute. 
+
+### Acknowledgements
+
+I would like to express my heartfelt gratitude to the following individuals and team for their support and guidance throughout this project:
+
+* To my mentor Rory Patrick Sheridan for providing invaluable guidance, crucial tips, and constructive suggestions that greatly enhanced this project.
+
+* To my cohort facilitator Lewis for consistently addressing my questions and offering timely advice on the course, project development, and more.
+
+* To the Code Institute Tutor team for their unwavering support and assistance, espicially in resolving challenges related to Github and Gitpod.
