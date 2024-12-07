@@ -109,3 +109,14 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 * Github: Used for secure online code storage and pages deployment of the website.
 
 * Gitpod: a cloud-based IDE for convenient and consistent development. CI provided a template and was used to this project.
+
+
+## Code
+
+* The majority of the codebase for this website is built using [Bootstrap](https://getbootstrap.com/). Bootstrap's prebuilt components and responsive grid system were utilised to create a modern and user-friendly design with minimal custom coding.
+
+* Footer placement: The idea for keeping the footer fixed at the bottom of the page, regardless of contetnt length, was inspired by a Code Institute lesson. The solution was implemented using Bootstrap's utility classes.
+
+* Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
+
+By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
