@@ -38,6 +38,13 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * Returning customers: keep updated with new tours or events via email that was provided on the first booking.
 
+
+### Upcoming Features
+
+* Shopping: list of the wines produced in this vineyard, new or existing customer can buy wine online.
+
+* Vineyard Restaurant: visitor can also book brunch or dinner before or after the tour.
+
 ### WIREFRAME
 
 These wireframs screenshots illustrate the responsive dedsign, showcasing the desktop, tablet, and mobile layouts. 
@@ -64,11 +71,15 @@ Google Font library was used for this site.
 
 ## Icon
 
-Font Awesome library was used for the icons found in the footer.
+[Font Awesome](https://fontawesome.com/) library was used for the icons found in the footer.
 
 * such as icon for Facebook, Instagram, Youtube and X.
 
-## Colour Scheme
+[favicon](https://favicon.io/) 
+
+* favicon was generated using [favicon](https://favicon.io/). 
+
+### Colour Scheme
 
 The colour scheme for the design draws inspiration from a vineyard image, providing a harmonious and visually appealing palette: 
 
@@ -85,3 +96,16 @@ The colour scheme for the design draws inspiration from a vineyard image, provid
 
 
 This palette was carefully chosen using [Image Color Picker](https://imagecolorpicker.com/).
+
+
+## Technologies Used
+
+* HTML: Utilised for structuring the main site content.
+
+* CSS: Applied for styling the website.
+
+* Bootstrap: Used for creating a responsive and visually appealing design with prebuilt components and grid layouts.
+
+* Github: Used for secure online code storage and pages deployment of the website.
+
+* Gitpod: a cloud-based IDE for convenient and consistent development. CI provided a template and was used to this project.
