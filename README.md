@@ -4,6 +4,7 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 
 ## UX
+---
 
 ### Homepage 
 
@@ -99,6 +100,7 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 
 
 ## Technologies Used
+---
 
 * HTML: Utilised for structuring the main site content.
 
@@ -112,6 +114,7 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 
 
 ## Testing
+---
 
 All testing conducted for this project has been documented in separate file [TESTING.md](TESTING.md). This includes:
 
@@ -127,6 +130,7 @@ All testing conducted for this project has been documented in separate file [TES
 
 
 ## Deployment
+---
 
 This concise guide covers the essential steps for deployment.
 
@@ -160,23 +164,11 @@ Steps to deploy a project on Github pages:
 
 
 ## Credits
+---
 
 ### Content 
 
 * Code Institute Lessons: Provided foundation knowledge and concepts, including best practices for structuring HTML, Bootstrap and CSS in a project.
-
-
-### Code
-
-* Markdown Cheatsheet provided by Adam Pritchard, Code Institute.
-
-* The majority of the codebase for this website is built using [Bootstrap](https://getbootstrap.com/). Bootstrap's prebuilt components and responsive grid system were utilised to create a modern and user-friendly design with minimal custom coding.
-
-* Footer placement: The idea for keeping the footer fixed at the bottom of the page, regardless of contetnt length, was inspired by a Code Institute lesson. The solution was implemented using Bootstrap's utility classes.
-
-* Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
-
-By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
 
 
 ### Media
@@ -199,7 +191,22 @@ By combining Bootstrap's built-in functionality with insights from Code Institut
 
 * [image colour picker](https://imagecolorpicker.com/) assisted in generating the colour palette for the site's design.
 
-* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) by Adam Pritchard: A reference for writing README.md and TESTING.md files, supplemented by guidance from Code Intitute. 
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) by Adam Pritchard: A reference for writing README.md and TESTING.md files, supplemented by guidance from Code Intitute.
+
+
+### Code
+
+* Markdown Cheatsheet provided by Adam Pritchard, Code Institute.
+
+* The majority of the codebase for this website is built using [Bootstrap](https://getbootstrap.com/). Bootstrap's prebuilt components and responsive grid system were utilised to create a modern and user-friendly design with minimal custom coding.
+
+* Footer placement: The idea for keeping the footer fixed at the bottom of the page, regardless of contetnt length, was inspired by a Code Institute lesson. The solution was implemented using Bootstrap's utility classes.
+
+* Navbar positioning: Similarly, the technique to align the navigation bar at the top right of the page was inspired by Code Institute. This adjustment also leveraged Bootstrap's features.
+
+By combining Bootstrap's built-in functionality with insights from Code Institute lessons, the site achieves a seamless blend of professional design and tailored adjustments.
+ 
+
 
 ### Acknowledgements
 
