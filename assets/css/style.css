@@ -84,6 +84,11 @@ a.btn:hover {
     border-color: var(--highlight-color);
 }
 
+/*Contact*/
+#contactUs {
+    margin-bottom: 50px;
+}
+
 /*Booking Form*/
 .custom-background {
     background-color: var(--background-color);
