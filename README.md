@@ -1,6 +1,6 @@
 # CYMRU VINEYARD
 
-Cymru vineyard website will provide a clear and comprehensive resource for those interested in exploring vineyards tours or travellers. It offers detailed information about the tour experience, including pricing, what's included, and our operating days and times, ensuring everything is easily accessible for those planning a visit. With a focus on creating a relaxing experience for adults, couples, and group of friends, the site highlights the serene charm of the vineyard nestled in a peaceful valley. The goal is to highlight the tranquil and inviting nature of the tours, helping visitors understand what they can expect and make informed decisions about their day out.
+Cymru vineyard website will provide a clear and comprehensive resource for those interested in exploring vineyards tours. It offers detailed information about the tour experience, including pricing, what's included, and our operating days and times, ensuring everything is easily accessible for those planning a visit. With a focus on creating a relaxing experience for adults, couples, and group of friends, the site highlights the serene charm of the vineyard nestled in a peaceful valley. The goal is to highlight the tranquil and inviting nature of the tours, helping visitors understand what they can expect and make informed decisions about their day out.
 
 
 ## UX
@@ -14,12 +14,11 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * Navigation Bar: Home, About Us, Book Now.
 
-### About Page
-
 * Contact Information: an easy to find address, email address and phone number. 
 
 * Operaitonal Days amd Times: displayed using table to show a clear scheduling pattern.
 
+### Gallery Page
 
 * Gallery Section: A currated gallery showcasing happy visitors and images of the vineyard. 
 
@@ -44,7 +43,7 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * Shopping: list of the wines produced in this vineyard, new or existing customer can buy wine online.
 
-* Vineyard Restaurant: visitor can also book brunch or dinner before or after the tour.
+* Vineyard Restaurant: visitor can also book brunch or tea before or after the tour.
 
 ### WIREFRAME
 
@@ -219,6 +218,6 @@ I would like to express my heartfelt gratitude to the following individuals and 
 
 * To my mentor Rory Patrick Sheridan for providing invaluable guidance, crucial tips, and constructive suggestions that greatly enhanced this project.
 
-* To my cohort facilitator Lewis for consistently addressing my questions and offering timely advice on the course, project development, and more.
+* To my cohort facilitator Lewis Dillon for consistently addressing my questions and offering timely advice on the course, project development, and more.
 
 * To the Code Institute Tutor team for their unwavering support and assistance, espicially in resolving challenges related to Github and Gitpod.

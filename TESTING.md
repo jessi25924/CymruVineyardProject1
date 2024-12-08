@@ -23,6 +23,18 @@ To validate the CSS file, the recommended validator service by Code Institute wh
 
 ## Lighthouse Testing
 
+Lighthouse was used to evaluate the website's performance, accessibility and best practices. This testing ensures the site meets modern web standards and provides an optimised user experience accross devices.
+
+| Device | Page | Comment | Screenshot |
+| --- | --- | --- | --- |
+| Desktop | Home | minor warning | ![HomeDesktop](screenshots/HomeDesktop.png) |
+| Mobile | Home | Some warnings cannot be resolved as they involve external libraries. | ![MobileHome](screenshots/HomeMobile.png) |
+| Desktop | Gallery | Some warnings cannot be resolved as they involve external libraries. | ![GalleryDesktop](screenshots/GalleryDesktop.png) |
+| Mobile | Gallery | Some warnings cannot be resolved as they involve external libraries. | ![GalleryMobile](screenshots/GalleryMobile.png) |
+| Desktop | Book now | minor warnings | ![BookNowDesktop](screenshots/BookNowDesktop.png) |
+| Mobile | Book now | minor warnings | ![BookNowMobile](screenshots/BookNowMobile.png) |
+
+
 
 ## Responsiveness
 
