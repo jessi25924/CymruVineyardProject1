@@ -33,7 +33,7 @@ I tested the layout's adaptability to various screen sizes and orientation, ensu
 | Mobile (Chrome DevTools) | no issue | ![Mobile Device](screenshots/MobileDevice.png) |
 | Tablet (Chrome DevTools) | no issue | ![Tablet Device](screenshots/TabletDevice.png) |
 | Laptop 1024px (Chrome DevTools) | no issue | ![Laptop1024px Device](screenshots/Laptop1024pxDevice.png) |
-| Laptop 1440px (Chrome DevTools) | minor button issue(the issue was resolved, create a new screenshot for this) | ![Laptop1440px Device](screenshots/Laptop1440pxDevice.png) |
+| Laptop 1440px (Chrome DevTools) | no issue | ![Laptop1440px Device](screenshots/Laptop1440pxDevice.png) |
 
 ## Browser Compatibility
 

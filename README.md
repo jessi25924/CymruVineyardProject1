@@ -166,12 +166,14 @@ Steps to deploy a project on Github pages:
 ## Credits
 ---
 
-### Content 
+### Content and Inspiration
 
 * Code Institute Lessons: Provided foundation knowledge and concepts, including best practices for structuring HTML, Bootstrap and CSS in a project.
 
+* This project was inspired by my visit to a vineyard in San Gimignano, Tuscany, Italy last year. The expirenced left a lasting impression on me, combining the beauty of the lanscape with the art of winemaking. 
 
-### Media
+
+### Media and Tools
 
 * [Google Font](https://fonts.google.com/) used for all typography and text styling on the site.
 
@@ -193,6 +195,7 @@ Steps to deploy a project on Github pages:
 
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) by Adam Pritchard: A reference for writing README.md and TESTING.md files, supplemented by guidance from Code Intitute.
 
+* [Grammarly](https://www.grammarly.com/) this documentation has been grammar-proofed using Grammarly to ensure clarity and professionalism.
 
 ### Code
 
