@@ -69,3 +69,44 @@ I have tested the site across major browsers including Chrome, Firefox, MS Edge,
 
 
 ## bugs
+
+* The header text has visibility issue when the site is viewed on screens 1440px or wider.
+
+![HeaderText](screenshots/heroImage.1440px.png)
+
+to resolved this, I restyled the header text using CSS, changing the color to white with text-shadows.
+
+
+* There is a margin issue with the booking form when viewed on screens 1024px or smaller; the gap is not sufficient.
+
+![bookingForm](screenshots/bookingForm.1024px.png)
+
+to resolved this, I customised it using CSS, setting the margin-top to 40px and margin-bottom to 80px.
+
+* There is an insufficient gap between the "Contact Us" and "Opening Times" sections when viewed on screens 425px or smaller.
+
+![MobileScreen](screenshots/mobileScreen.png)
+
+To resolved this, I added Bootstrap utility class mb-5 directly in HTML.
+
+* Toggler icon is not visible on screens 768px or smaller due to the darker navbar background colour.
+
+![TogglerIcon](screenshots/togglerIcon.png)
+
+To resolved this, I customised the toggler icon using CSS, setting the toggler to have lighter border-color and backround-color.
+
+* The book Now button changes position when the site is viewed on screens 1440px or wider.
+
+![BookNowButton](screenshots/BookNowbutton.png)
+
+I tried to customised it using CSS, setting the button to display: block and margin-top: 15px.However, it did not resolved the issue.
+
+![BookNowButton2](screenshots/BookNowbutton2.png)
+
+Then, I separate the button into it's own <div> so, it became a standalone block element.
+
+* Carousel positiong issue: when viewed on screen of 1024px, the margins are sufficient. However, when viewed on screens smaller than 1024px and wider than 1024px, the carousel does not have enough gap.
+
+![Carousel](screenshots/CarouselScreen1440px.768px.png)
+
+to resolved this, I added Bootstrap utility classes mt-4 and mb-4 directly in HTML.
