@@ -139,8 +139,9 @@ a.btn:hover {
 
 /*Gallery*/
 .gallery img {
-    width: 90%;
-    height: 200px;
+    width: 100%;
+    height: auto;
+    max-width: 600px;
     object-fit: cover;
 }
 
