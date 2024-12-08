@@ -33,9 +33,27 @@ I tested the layout's adaptability to various screen sizes and orientation, ensu
 | Mobile (Chrome DevTools) | no issue | ![Mobile Device](screenshots/MobileDevice.png) |
 | Tablet (Chrome DevTools) | no issue | ![Tablet Device](screenshots/TabletDevice.png) |
 | Laptop 1024px (Chrome DevTools) | no issue | ![Laptop1024px Device](screenshots/Laptop1024pxDevice.png) |
-| Laptop 1440px (Chrome DevTools) | minor button issue | ![Laptop1440px Device](screenshots/Laptop1440pxDevice.png) |
+| Laptop 1440px (Chrome DevTools) | minor button issue(the issue was resolved, create a new screenshot for this) | ![Laptop1440px Device](screenshots/Laptop1440pxDevice.png) |
 
-## Cross-browser
+## Browser Compatibility
+
+I have tested the site across major browsers including Chrome, Firefox, MS Edge, and Opera. Each browser renders the site as intended, ensuring a consistent and seamless user experience.
+
+* Chrome
+
+![Chrome](screenshots/Chrome.webp)
+
+* Firefox
+
+![Firefox](screenshots/Firefox.webp)
+
+* MS Edge
+
+![MS Edge](screenshots/MS%20Edge.webp)
+
+* Opera
+
+![Opera](screenshots/Opera.webp)
 
 
 ## bugs
