@@ -21,6 +21,12 @@ h1 {
     color: var(--primary-color);
 }
 
+/*Logo*/
+.navbar .logo {
+    height: 50px;
+    width: auto;
+}
+
 /*Navbar*/
 .custom-navbar {
     background-color: var(--primary-color);
@@ -68,7 +74,7 @@ h1 {
 
 /*hero*/
 #hero {
-    background-image: url(../images/hero-image.png);
+    background-image: url(../images/hero-image.webp);
     background-size: cover;
     background-position: 50% 90%;
     min-height: 500%;
