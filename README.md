@@ -18,9 +18,13 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * Operational Days and Times: displayed using table to show a clear scheduling pattern.
 
+![](screenshots/homepage.png)
+
 ### Gallery Page
 
 * Gallery Section: A currated gallery showcasing happy visitors and images of the vineyard. 
+
+![](screenshots/GalleryPage.png)
 
 ### Booking Page
 
@@ -31,6 +35,8 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 * A clear call-to-action: "Secure booking"
 
 * A confirmation modal: confirming the booking.
+
+![](screenshots/BookNow.png)
 
 ### Customer Goals
 
