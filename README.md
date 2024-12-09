@@ -26,8 +26,11 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 - Tour Information: Pricing and tour inclusion.
 - A user-friendly form: input fields for name, contact information, preferred date, time and number of people.
 - A clear call-to-action: "Secure booking"
-- A confirmation form: confirming the booking.
 
+### Additional Pages
+* Booking Confirmation Page: Confirms successful booking submissions with a message and includes a link to return to the homepage.
+
+* 404 Page: Displays an error message for non-existent pages and provide links to the homepage and other sections for easy navigation.
 
 ## User Stories
 
