@@ -115,7 +115,7 @@ a.btn:hover {
 }
 
 /*Booking Confirmation*/
-main {
+#bookingConfirmation {
     display: flex;
     align-items: center;
     justify-content: center;
