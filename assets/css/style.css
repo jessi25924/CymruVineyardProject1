@@ -114,12 +114,13 @@ a.btn:hover {
     background-color: var(--background-color);
 }
 
-/* Modal */
-#confirmationModal {
-    color: black;
-}
-#confirmationModalLabel {
-    color: black;
+/*Booking Confirmation*/
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    text-align: center;
 }
 
 /* opening times */
