@@ -9,15 +9,11 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 ### Homepage 
 
-* Welcome Section: A full-width hero image showcasing the vineyard during a scenic time of the day. A quote message from Robert Mondavi about vineyard. And a call-to-action button "Book a tour".
-
-* About Us Section: Includes a brief history of the vineyard family business and a carousel of images showing the owner's photo in the vineyard and grapes that is produced in the vineyard.
-
-* Navigation Bar: Home, Contact, Gallery, Book Now.
-
-* Contact Information: an easy to find address, email address and phone number. 
-
-* Operational Days and Times: displayed using table to show a clear scheduling pattern.
+ Welcome Section: A full-width hero image showcasing the vineyard during a scenic time of the day. A quote message from Robert Mondavi about vineyard. And a call-to-action button "Book a tour".
+- About Us Section: Includes a brief history of the vineyard family business and a carousel of images showing the owner's photo in the vineyard and grapes that is produced in the vineyard.
+- Navigation Bar: Home, Contact, Gallery, Book Now.
+- Contact Information: an easy to find address, email address and phone number. 
+- Operational Days and Times: displayed using table to show a clear scheduling pattern.
 
 
 ### Gallery Page
@@ -27,20 +23,29 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 ### Booking Page
 
-* Tour Information: Pricing and tour inclusion.
-
-* A user-friendly form: input fields for name, contact information, preferred date, time and number of people.
-
-* A clear call-to-action: "Secure booking"
-
-* A confirmation modal: confirming the booking.
+- Tour Information: Pricing and tour inclusion.
+- A user-friendly form: input fields for name, contact information, preferred date, time and number of people.
+- A clear call-to-action: "Secure booking"
+- A confirmation form: confirming the booking.
 
 
-### Customer Goals
+## User Stories
 
-* New visitors: Learn about the vineyard's charm, values and offerings in an engaging way. Find all necessary informaiton to book a visit effortlessly. Build anticipation with visually appealing content.
+### First-Time Visitors
+- I want to learn about the vineyard and the available tours to decide if I want to book a visit.
+- I need clear information about tour prices and what is included.
+- I am looking for an easy-to-use booking form to reserve my spot.
 
-* Returning customers: Special discount for repeat visitor.
+### Returning Customer
+- I want to know about discounts or special offers so that I feel appreciated.
+- I want to quickly book another tour without hassle.
+
+### General Users
+- I want the website to be visually appealing and responsive so that it works well on any device.
+- I want clear navigation to find the information I need without confusion.
+- I want easy access to the vineyard's contact details and social media links.
+
+These stories help ensure the website meets the needs of its target audience effectively.
 
 
 ### Upcoming Features
