@@ -3,7 +3,7 @@
 Cymru vineyard website will provide a clear and comprehensive resource for those interested in exploring vineyards tours. It offers detailed information about the tour experience, including pricing, what's included, and our operating days and times, ensuring everything is easily accessible for those planning a visit. With a focus on creating a relaxing experience for adults, couples, and group of friends, the site highlights the serene charm of the vineyard nestled in a peaceful valley. The goal is to highlight the tranquil and inviting nature of the tours, helping visitors understand what they can expect and make informed decisions about their day out.
 
 
-## UX
+# UX
 ---
 
 ### Homepage 
@@ -12,11 +12,11 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * About Us Section: Includes a brief history of the vineyard family business and a carousel of images showing the owner's photo in the vineyard and grapes that is produced in the vineyard.
 
-* Navigation Bar: Home, About Us, Book Now.
+* Navigation Bar: Home, Contact, Gallery, Book Now.
 
 * Contact Information: an easy to find address, email address and phone number. 
 
-* Operaitonal Days amd Times: displayed using table to show a clear scheduling pattern.
+* Operational Days and Times: displayed using table to show a clear scheduling pattern.
 
 ### Gallery Page
 
@@ -24,9 +24,9 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 ### Booking Page
 
-* Tour Information: Pricing, tour duration and tour inclusion.
+* Tour Information: Pricing and tour inclusion.
 
-* A user-friendly form: input fields for name, contact informaiton, preferred date, time and number of people.
+* A user-friendly form: input fields for name, contact information, preferred date, time and number of people.
 
 * A clear call-to-action: "Secure booking"
 
@@ -36,7 +36,7 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * New visitors: Learn about the vineyard's charm, values and offerings in an engaging way. Find all necessary informaiton to book a visit effortlessly. Build anticipation with visually appealing content.
 
-* Returning customers: keep updated with new tours or events via email that was provided on the first booking.
+* Returning customers: Special discount for repeat visitor.
 
 
 ### Upcoming Features
@@ -47,7 +47,7 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 ### WIREFRAME
 
-These wireframs screenshots illustrate the responsive dedsign, showcasing the desktop, tablet, and mobile layouts. 
+These wireframes screenshots illustrate the responsive design, showcasing the desktop, tablet, and mobile layouts. 
 
 * Desktop
 
@@ -117,15 +117,15 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 
 All testing conducted for this project has been documented in separate file [TESTING.md](TESTING.md). This includes:
 
-* Validation Testing: code checked for HTML and CSS using W3C validator and Jigsaw.
+* Validation: code checked for HTML and CSS using W3C validator and Jigsaw.
 
 * Lighthouse Testing: google lighthouse was used to test the site's Performance, Accessibility, and Best Practices.
 
-* Responsiveness Testing: ensuring the site function seamlessly across various devices using tools like Chrome DevTools.
+* Responsiveness: ensuring the site function seamlessly across various devices using tools such as Chrome DevTools.
 
-* Cross-Browser Testing: Validating compatibility on popular browsers, cluding Chrome, Firefox, Safari and Edge.
+* Browser Compatibility: Validating compatibility on popular browsers, cluding Chrome, Firefox, Opera and Edge.
 
-* Bug Fixes: 
+* Bugs
 
 
 ## Deployment
@@ -142,7 +142,7 @@ Steps to deploy a project on Github pages:
 5. Click **Save**.
 6. After a few moments, **Github Pages** will provide a live URL where your site is hosted.
 
-### Steps to Create a Github Account
+Steps to Create a Github Account
 
 1. Go to GitHub: visit [github.com](https://github.com/) and click SIgn up in the top right corner.
 2. Enter Details: provide email and password.
@@ -152,7 +152,7 @@ Steps to deploy a project on Github pages:
 6. Set up Profile: this is optional. Add you name, photo, etc.
 7. Start using Github
 
-### Steps to Run the Project in Gitpod
+Steps to Run the Project in Gitpod
 
 1. Open Github Repository: go to your repository page.
 2. Launch Gitpod
@@ -163,13 +163,12 @@ Steps to deploy a project on Github pages:
 
 
 ## Credits
----
 
 ### Content and Inspiration
 
 * Code Institute Lessons: Provided foundation knowledge and concepts, including best practices for structuring HTML, Bootstrap and CSS in a project.
 
-* This project was inspired by my visit to a vineyard in San Gimignano, Tuscany, Italy last year. The expirenced left a lasting impression on me, combining the beauty of the lanscape with the art of winemaking. 
+* This project was inspired by my visit to a vineyard in San Gimignano, Italy last year. The expirenced left a lasting impression on me, combining the beauty of the lanscape with the art of winemaking. 
 
 
 ### Media and Tools

@@ -12,6 +12,7 @@ To validate all HTML files, the recommended validator service by Code Institute 
 | [W3C](https://validator.w3.org/) | Gallery | No Errors | ![screenshoot](screenshots/htmlAbouta.webp) |
 | [W3C](https://validator.w3.org/) | Book Now | No Errors | ![screenshoot](screenshots/htmlBookingForm.webp) |
 
+---
 
 To validate the CSS file, the recommended validator service by Code Institute which is [Jigsaw W3C](https://jigsaw.w3.org/css-validator/) was used.
 
@@ -19,7 +20,7 @@ To validate the CSS file, the recommended validator service by Code Institute wh
 | Validator | Page | Comment | Screenshot |
 | --- | --- | --- | --- |
 | [Jigsaw W3C](https://jigsaw.w3.org/css-validator/) | style.css | No Errors | ![screenshot](screenshots/CSS.webp) |
-
+---
 
 ## Lighthouse Testing
 
@@ -33,7 +34,7 @@ Lighthouse was used to evaluate the website's performance, accessibility and bes
 | Mobile | Gallery | Some warnings cannot be resolved as they involve external libraries. | ![GalleryMobile](screenshots/GalleryMobile.png) |
 | Desktop | Book now | minor warnings | ![BookNowDesktop](screenshots/BookNowDesktop.png) |
 | Mobile | Book now | minor warnings | ![BookNowMobile](screenshots/BookNowMobile.png) |
-
+---
 
 
 ## Responsiveness
@@ -42,31 +43,32 @@ I tested the layout's adaptability to various screen sizes and orientation, ensu
 
 | Device | Comment | Screenshot |
 | --- | --- | --- |
-| Mobile (Chrome DevTools) | no issue | ![Mobile Device](screenshots/MobileDevice.png) |
-| Tablet (Chrome DevTools) | no issue | ![Tablet Device](screenshots/TabletDevice.png) |
-| Laptop 1024px (Chrome DevTools) | no issue | ![Laptop1024px Device](screenshots/Laptop1024pxDevice.png) |
-| Laptop 1440px (Chrome DevTools) | no issue | ![Laptop1440px Device](screenshots/Laptop1440pxDevice.png) |
+| Mobile (Chrome DevTools) | Achieves desired functionality | ![Mobile Device](screenshots/MobileDevice.png) |
+| Tablet (Chrome DevTools) | Achieves desired functionality | ![Tablet Device](screenshots/TabletDevice.png) |
+| Laptop 1024px (Chrome DevTools) | Achieves desired functionality | ![Laptop1024px Device](screenshots/Laptop1024pxDevice.png) |
+| Laptop 1440px (Chrome DevTools) | Achieves desired functionality | ![Laptop1440px Device](screenshots/Laptop1440pxDevice.png) |
+---
 
 ## Browser Compatibility
 
 I have tested the site across major browsers including Chrome, Firefox, MS Edge, and Opera. Each browser renders the site as intended, ensuring a consistent and seamless user experience.
 
-* Chrome
+* **Chrome**
 
 ![Chrome](screenshots/Chrome.webp)
 
-* Firefox
+* **Firefox**
 
 ![Firefox](screenshots/Firefox.webp)
 
-* MS Edge
+* **MS Edge**
 
 ![MS Edge](screenshots/MS%20Edge.webp)
 
-* Opera
+* **Opera**
 
 ![Opera](screenshots/Opera.webp)
-
+---
 
 ## bugs
 
@@ -74,26 +76,26 @@ I have tested the site across major browsers including Chrome, Firefox, MS Edge,
 
 ![HeaderText](screenshots/heroImage.1440px.png)
 
-to resolved this, I restyled the header text using CSS, changing the color to white with text-shadows.
+**_to resolved this, I restyled the header text using CSS, changing the color to white with text-shadows._**
 
 
 * There is a margin issue with the booking form when viewed on screens 1024px or smaller; the gap is not sufficient.
 
 ![bookingForm](screenshots/bookingForm.1024px.png)
 
-to resolved this, I customised it using CSS, setting the margin-top to 40px and margin-bottom to 80px.
+**_to resolved this, I customised it using CSS, setting the margin-top to 40px and margin-bottom to 80px._**
 
 * There is an insufficient gap between the "Contact Us" and "Opening Times" sections when viewed on screens 425px or smaller.
 
 ![MobileScreen](screenshots/mobileScreen.png)
 
-To resolved this, I added Bootstrap utility class mb-5 directly in HTML.
+**_To resolved this, I added Bootstrap utility class mb-5 directly in HTML._**
 
 * Toggler icon is not visible on screens 768px or smaller due to the darker navbar background colour.
 
 ![TogglerIcon](screenshots/togglerIcon.png)
 
-To resolved this, I customised the toggler icon using CSS, setting the toggler to have lighter border-color and backround-color.
+**_To resolved this, I customised the toggler icon using CSS, setting the toggler to have lighter border-color and backround-color._**
 
 * The book Now button changes position when the site is viewed on screens 1440px or wider.
 
@@ -103,10 +105,10 @@ I tried to customised it using CSS, setting the button to display: block and mar
 
 ![BookNowButton2](screenshots/BookNowbutton2.png)
 
-Then, I separate the button into it's own <div> so, it became a standalone block element.
+**_Then, I separate the button into it's own div so, it became a standalone block element._**
 
 * Carousel positiong issue: when viewed on screen of 1024px, the margins are sufficient. However, when viewed on screens smaller than 1024px and wider than 1024px, the carousel does not have enough gap.
 
 ![Carousel](screenshots/CarouselScreen1440px.768px.png)
 
-to resolved this, I added Bootstrap utility classes mt-4 and mb-4 directly in HTML.
+**_to resolved this, I added Bootstrap utility classes mt-4 and mb-4 directly in HTML._**
