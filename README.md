@@ -5,6 +5,7 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 # UX
 ---
+![](screenshots/responsiveness.png)
 
 ### Homepage 
 
@@ -18,13 +19,11 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * Operational Days and Times: displayed using table to show a clear scheduling pattern.
 
-![](screenshots/homepage.png)
 
 ### Gallery Page
 
 * Gallery Section: A currated gallery showcasing happy visitors and images of the vineyard. 
 
-![](screenshots/GalleryPage.png)
 
 ### Booking Page
 
@@ -36,7 +35,6 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 * A confirmation modal: confirming the booking.
 
-![](screenshots/BookNow.png)
 
 ### Customer Goals
 
@@ -72,8 +70,8 @@ These wireframes screenshots illustrate the responsive design, showcasing the de
 
 Google Font library was used for this site.
 
-* "Playfair Display" - used as a primary font for headings and titles.
-* "Great Vibes" - used as a secondary font for all body text element.  
+* ["Playfair Display"](https://fonts.google.com/specimen/Playfair+Display) - used as a primary font for headings and titles.
+* ["Great Vibes"](https://fonts.google.com/specimen/Great+Vibes) - used as a secondary font for all body text element.  
 
 ## Icon
 
@@ -107,15 +105,15 @@ This palette was carefully chosen using [Image Color Picker](https://imagecolorp
 ## Technologies Used
 ---
 
-* HTML: Utilised for structuring the main site content.
+* [HTML](https://en.wikipedia.org/wiki/HTML): Utilised for structuring the main site content.
 
-* CSS: Applied for styling the website.
+* [CSS](https://en.wikipedia.org/wiki/CSS): Applied for styling the website.
 
-* Bootstrap: Used for creating a responsive and visually appealing design with prebuilt components and grid layouts.
+* [Bootstrap](https://getbootstrap.com/): Used for creating a responsive and visually appealing design with prebuilt components and grid layouts.
 
-* Github: Used for secure online code storage and pages deployment of the website.
+* [GitHub](https://github.com/): Used for secure online code storage and pages deployment of the website.
 
-* Gitpod: a cloud-based IDE for convenient and consistent development. CI student account was used in this project.
+* [Gitpod](https://www.gitpod.io/): a cloud-based IDE for convenient and consistent development. CI student account was used in this project.
 
 
 ## Testing
@@ -149,8 +147,7 @@ Steps to deploy a project on Github pages:
 6. After a few moments, **Github Pages** will provide a live URL where your site is hosted.
 
 Steps to Create a Github Account
-
-1. Go to GitHub: visit [github.com](https://github.com/) and click SIgn up in the top right corner.
+1. Go to GitHub: visit [github.com](https://github.com/) and click Sign up in the top right corner.
 2. Enter Details: provide email and password.
 3. Verify Account: complete the captcha to verify you're human.
 4. Choose a plan: select the free plan.
@@ -159,7 +156,6 @@ Steps to Create a Github Account
 7. Start using Github
 
 Steps to Run the Project in Gitpod
-
 1. Open Github Repository: go to your repository page.
 2. Launch Gitpod
 3. If prompted, sign in to Gitpod.
@@ -201,6 +197,8 @@ Steps to Run the Project in Gitpod
 
 * [Grammarly](https://www.grammarly.com/) this documentation has been grammar-proofed using Grammarly to ensure clarity and professionalism.
 
+* [ui.dev](https://ui.dev/amiresponsive) used to show website appearance on desktop, laptop, tablet, and phone.
+
 ### Code
 
 * Markdown Cheatsheet provided by Adam Pritchard, Code Institute.
@@ -225,4 +223,7 @@ I would like to express my heartfelt gratitude to the following individuals and 
 
 * To my cohort facilitator Lewis Dillon for consistently addressing my questions and offering timely advice on the course, project development, and more.
 
-* To the Code Institute Tutor team for their unwavering support and assistance, espicially in resolving challenges related to Github and Gitpod.
+* To the Code Institute Tutor team for their support and assistance, espicially in resolving challenges related to Github and Gitpod.
+
+### Notes on Commit History
+The commit history for this project may appear messy as I am still getting used to managing and refining commits effectively. I plan to improve my workflow and adopt better practices for commit organisation in the future projects.
