@@ -63,15 +63,15 @@ These wireframes screenshots illustrate the responsive design, showcasing the de
 
 * Desktop
 
-![desktopscreenshot](screenshots/WRdesktop.png)
+![desktopscreenshot](screenshots/wireframe-desktop.png)
 
 * Tablet
 
-![tabletscreenshot](screenshots/WFtablet.png)
+![tabletscreenshot](screenshots/wireframe-tablet.png)
 
 * Mobile
 
-![mobilescreenshot](screenshots/WFmobile.png)
+![mobilescreenshot](screenshots/wireframe-mobile.png)
 
 
 ## Font
@@ -95,7 +95,7 @@ Google Font library was used for this site.
 
 The colour scheme for the design draws inspiration from a vineyard image, providing a harmonious and visually appealing palette: 
 
-![screenshot](screenshots/ColourPalette.webp)
+![screenshot](screenshots/colour-palette.webp)
 
 
 * Primary colour #2E3708 - Blind Forest: Main colour for text, navbar and footer background colour, giving a sense of calmness and sophistication to the design.
