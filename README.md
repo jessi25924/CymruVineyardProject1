@@ -242,7 +242,7 @@ I would like to express my heartfelt gratitude to the following individuals and 
 
 * To my cohort facilitator Lewis Dillon for consistently addressing my questions and offering timely advice on the course, project development, and more.
 
-* To the Code Institute Tutor team for their support and assistance, espicially in resolving challenges related to Github and Gitpod.
+* To the Code Institute Tutor team for their support and assistance, especially in resolving challenges related to Github and Gitpod.
 
 ### Notes on Commit History
 The commit history for this project may appear messy as I am still getting used to managing and refining commits effectively. I plan to improve my workflow and adopt better practices for commit organisation in the future projects.
