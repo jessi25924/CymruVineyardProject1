@@ -11,6 +11,8 @@ To validate all HTML files, the recommended validator service by Code Institute 
 | [W3C](https://validator.w3.org/) | Home | No Errors | ![screenshoot](assets/documentation/html-validation-home.webp) |
 | [W3C](https://validator.w3.org/) | Gallery | No Errors | ![screenshoot](assets/documentation/html-validation-about.webp) |
 | [W3C](https://validator.w3.org/) | Book Now | No Errors | ![screenshoot](assets/documentation/html-validation-booking.webp) |
+| [W3C](https://validator.w3.org/) | Booking Confirmation | No Errors | ![screenshoot](assets/documentation/html-validation-bc.png) |
+| [W3C](https://validator.w3.org/) | 404 | No Errors | ![screenshoot](assets/documentation/html-validation-404.png) |
 
 ---
 
