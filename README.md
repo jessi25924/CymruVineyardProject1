@@ -76,7 +76,7 @@ These wireframes screenshots illustrate the responsive design, showcasing the de
 
 ## Font
 
-Google Font library was used for this site.
+Google Font library was used for this site. A clean and modern font style was selected to ensure readability while maintaining a sophisticated look.
 
 * ["Playfair Display"](https://fonts.google.com/specimen/Playfair+Display) - used as a primary font for headings and titles.
 * ["Great Vibes"](https://fonts.google.com/specimen/Great+Vibes) - used as a secondary font for all body text element.  
@@ -93,7 +93,7 @@ Google Font library was used for this site.
 
 ### Colour Scheme
 
-The colour scheme for the design draws inspiration from a vineyard image, providing a harmonious and visually appealing palette: 
+The colour scheme for the design draws inspiration from a vineyard image, providing a harmonious and visually appealing palette. It also reflects the natural beauty of vineyards and complements the luxurious and tranquil experience offered.
 
 ![screenshot](assets/documentation/colour-palette.webp)
 
@@ -109,6 +109,17 @@ The colour scheme for the design draws inspiration from a vineyard image, provid
 
 This palette was carefully chosen using [Image Color Picker](https://imagecolorpicker.com/).
 
+### Navigation
+
+A fixed-top navbar was used to allow users to access key sections of the website easily from anywhere on the page.
+
+### Footer
+
+A simple responsive footer was included with links to social media pages to enhance user engagement and provide additional touchpoints.
+
+### 404 Page
+
+A custom 404 page was added to guide users back to the main website if they encounter a broken or incorrect link, improving user experience.
 
 ## Technologies Used
 ---
@@ -178,7 +189,7 @@ Steps to Run the Project in Gitpod
 
 * Code Institute Lessons: Provided foundation knowledge and concepts, including best practices for structuring HTML, Bootstrap and CSS in a project.
 
-* This project was inspired by my visit to a vineyard in San Gimignano, Italy last year. The expirenced left a lasting impression on me, combining the beauty of the lanscape with the art of winemaking. 
+* This project was inspired by my visit to a vineyard in San Gimignano, Italy last year. The expirenced left a lasting impression on me, combining the beauty of the landscape with the art of winemaking. 
 
 
 ### Media and Tools
