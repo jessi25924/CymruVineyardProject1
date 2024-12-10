@@ -5,7 +5,7 @@ Cymru vineyard website will provide a clear and comprehensive resource for those
 
 # UX
 ---
-![](screenshots/responsiveness.png)
+![](assets/documentation/responsiveness.png)
 
 ### Homepage 
 
@@ -63,15 +63,15 @@ These wireframes screenshots illustrate the responsive design, showcasing the de
 
 * Desktop
 
-![desktopscreenshot](screenshots/wireframe-desktop.png)
+![desktopscreenshot](assets/documentation/wireframe-desktop.png)
 
 * Tablet
 
-![tabletscreenshot](screenshots/wireframe-tablet.png)
+![tabletscreenshot](assets/documentation/wireframe-tablet.png)
 
 * Mobile
 
-![mobilescreenshot](screenshots/wireframe-mobile.png)
+![mobilescreenshot](assets/documentation/wireframe-mobile.png)
 
 
 ## Font
@@ -95,7 +95,7 @@ Google Font library was used for this site.
 
 The colour scheme for the design draws inspiration from a vineyard image, providing a harmonious and visually appealing palette: 
 
-![screenshot](screenshots/colour-palette.webp)
+![screenshot](assets/documentation/colour-palette.webp)
 
 
 * Primary colour #2E3708 - Blind Forest: Main colour for text, navbar and footer background colour, giving a sense of calmness and sophistication to the design.
