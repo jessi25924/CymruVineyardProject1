@@ -88,7 +88,7 @@ header#hero h1 {
 
 header#hero p {
     color: var(--secondary-color);
-    background-color: rgba(155, 170, 67, 0.5);
+    background-color: rgba(155, 170, 67, 0.7);
     padding: 2px;
     display: inline-block;
 }
