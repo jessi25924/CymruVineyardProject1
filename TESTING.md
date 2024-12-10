@@ -53,7 +53,7 @@ I tested the layout's adaptability to various screen sizes and orientation, ensu
 
 ## Browser Compatibility
 
-I have tested the site across major browsers including Chrome, Firefox, MS Edge, and Opera. Each browser renders the site as intended, ensuring a consistent and seamless user experience.
+I have tested the site across major browsers including Chrome, Firefox, MS Edge, Opera, and Safari. Each browser renders the site as intended, ensuring a consistent and seamless user experience.
 
 * **Chrome**
 
@@ -70,6 +70,10 @@ I have tested the site across major browsers including Chrome, Firefox, MS Edge,
 * **Opera**
 
 ![Opera](assets/documentation/opera.webp)
+
+* **Safari**
+
+![Safari](assets/documentation/safari.png)
 ---
 
 ## bugs
